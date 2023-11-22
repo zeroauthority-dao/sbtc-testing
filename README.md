@@ -1,3 +1,10 @@
+##  sBTC-Developer-Release
+The sBTC Developer Release will include a front-end application, providing an easy interface for testing the deposit and withdraw transactions for sBTC. In addition to this, an API will be deployed which developers can call directly from their applications. This tooling will allow developers to test key sBTC functionality and potentially get a headstart on building sBTC-powered applications. On top of the tooling itself, in-depth documentation, tutorials, and sample apps will be provided to ensure developers can get up and running quickly and easily.
+
+https://stacks.org/sbtc-testnet
+
+https://sbtc.tech/developer-release
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
